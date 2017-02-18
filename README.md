@@ -18,4 +18,4 @@ It’s simple.
 ### So… how are they related?
 Well, as you can see in the graph below, they feed each other: questions submitted to this site give birth to topics for webinar talks, and more questions from those webinar talks are submitted to this site. And, out of both, answers get to the community and documentation is continuously built.
 
-![alt tag](https://github.com/tdwg/dwc-qa/blob/master/DwCQ%26ASite%20-%20DwCHour%20-%20Schema.jpg)
+![alt tag](https://github.com/tdwg/dwc-qa/blob/master/internal/DwCQ%26ASite%20-%20DwCHour%20-%20Schema.jpg)
