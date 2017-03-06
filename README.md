@@ -3,6 +3,10 @@
 ## What is this about
 This repository is intended to be part of a public forum to capture questions and provide answers and examples for topics related to the use of the [Darwin Core standard](http://rs.tdwg.org/dwc/). You can find the [Questions & Answers pages](https://github.com/tdwg/dwc-qa/wiki) in the wiki for this repository.
 
+## How to navigate this repository
+In the following short video, we show how to navigate this repository and the things you can do in it. 
+[<img src="https://github.com/tdwg/dwc-qa/blob/master/internal/playVideo.jpg" height="150" width="250">](https://youtu.be/saNUtQijRYM)
+
 ## How can I participate
 If you have topics to discuss in a live open forum, please submit them via the [Darwin Core Hour Input Form](https://docs.google.com/forms/d/e/1FAIpQLSekd0QSdgiK5ujh6CLZPx9kKTcS-mJRNK_pGWk3b3fHv4x4gQ/viewform?c=0&w=1) and attend [webinars](https://github.com/tdwg/dwc-qa/wiki/Webinars) in the [Darwin Core Hour series](https://www.idigbio.org/content/darwin-core-hour-webinar-series). If you would like to be notified of conversations on this site, [join GitHub](https://github.com/join?source=header-home) if you have not already done so, then click on the "Watch" selection box at the top right of this page. If you would like to participate in technical discussions of biodiversity standards in general, please subscribe to the [tdwg-content discussion list](http://lists.tdwg.org/mailman/listinfo/tdwg-content) hosted by Biodiversity Information Standards - TDWG. 
 
