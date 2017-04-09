@@ -16,7 +16,7 @@ Don’t worry, we all felt that same way at some point, and we know it’s hard,
 
 ## Darwin Core Questions & Answers and Darwin Core Hour Series, how do they relate?
 It’s simple. 
-* [Darwin Core Questions & Answers] (https://github.com/tdwg/dwc-qa) site is where you are now. This is the place where all questions get submitted to via the [Darwin Core Hour Input Form](https://docs.google.com/forms/d/e/1FAIpQLSekd0QSdgiK5ujh6CLZPx9kKTcS-mJRNK_pGWk3b3fHv4x4gQ/viewform?c=0&w=1), where answers are permanently captured, and where documentation is built and made available for consultation ([Questions & Answers pages](https://github.com/tdwg/dwc-qa/wiki) in the wiki for this repository).
+* [Darwin Core Questions & Answers](https://github.com/tdwg/dwc-qa) site is where you are now. This is the place where all questions get submitted to via the [Darwin Core Hour Input Form](https://docs.google.com/forms/d/e/1FAIpQLSekd0QSdgiK5ujh6CLZPx9kKTcS-mJRNK_pGWk3b3fHv4x4gQ/viewform?c=0&w=1), where answers are permanently captured, and where documentation is built and made available for consultation ([Questions & Answers pages](https://github.com/tdwg/dwc-qa/wiki) in the wiki for this repository).
 * [Darwin Core Hour series](https://www.idigbio.org/content/darwin-core-hour-webinar-series) is a series of periodical talks (that we friendly call “the Webinars”) that address some of the topics laid out as questions in this site, and where there is an instance to discuss directly with the speakers and the rest of the community.
 
 ### So… how are they related?
