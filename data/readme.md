@@ -19,6 +19,6 @@ Not only do we need a dynamic resource, we need to go beyond distinct values and
 community to use these data to drive the development of some recommended controlled vocabularies. Other efforts are underway at iDigBio
 to build a tool to generate these data and visualize the values using clustering algorithms. As the worldwide community develops
 and implements better controlled vocabularies, clusters should go down, and have fewer items in a given cluster. These potential
-metrics and data form part of a larger initiative tackle biodiversity data quality in a strategic manner.
+metrics and data form part of a larger initiative to tackle biodiversity data quality in a strategic manner.
 
 
