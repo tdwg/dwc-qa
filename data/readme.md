@@ -6,7 +6,7 @@ these data present opportunities to engage both data providers, collectors, and 
 
 Invitations were sent to biodiversity data aggregators asking them to share the distinct values present (along with a value count)
 in each of the 23 fields for which the DwC standard recommends using a controlled vocabulary. In this directory, you can see the
-files sent by GBIF, iDigBio and VertNet. Additionally, for some terms in the iDigBio folder, you can see the distinct values 
+files sent by GBIF, iDigBio, ALA and VertNet. Additionally, for some terms in the iDigBio folder, you can see the distinct values 
 (with count) for raw data, and for the same term after some data quality scripts are run and the data are indexed.
 
 These files are just the very beginning of an idea to enable data providers, domain-specific researchers, collectors, and others 
